@@ -47,3 +47,4 @@ EWARM/           # IAR EWARM 프로젝트
 - **STM32CubeIDE**: 루트의 `.project` / `.cproject`를 임포트하여 빌드합니다.
 - **IAR EWARM**: `EWARM/` 디렉터리의 프로젝트 파일을 사용합니다.
 - 주변장치 설정을 바꾸려면 `stm32_air-quality-monitoring_self.ioc`를 STM32CubeMX(또는 CubeIDE)에서 열어 재생성하세요.
+
