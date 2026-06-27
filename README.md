@@ -49,3 +49,4 @@ EWARM/           # IAR EWARM 프로젝트
 - 주변장치 설정을 바꾸려면 `stm32_air-quality-monitoring_self.ioc`를 STM32CubeMX(또는 CubeIDE)에서 열어 재생성하세요.
 
 
+
